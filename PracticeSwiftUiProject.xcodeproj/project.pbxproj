@@ -14,6 +14,7 @@
 		C088661A2C4CB86E00CD4091 /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08866192C4CB86E00CD4091 /* TextComponent.swift */; };
 		C088661C2C4CBFAF00CD4091 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088661B2C4CBFAF00CD4091 /* Shapes.swift */; };
 		C088661E2C4CC52200CD4091 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088661D2C4CC52200CD4091 /* Colors.swift */; };
+		C08866202C4D129A00CD4091 /* GradientsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		C08866192C4CB86E00CD4091 /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
 		C088661B2C4CBFAF00CD4091 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		C088661D2C4CC52200CD4091 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsAndModifiers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C08866192C4CB86E00CD4091 /* TextComponent.swift */,
 				C088661B2C4CBFAF00CD4091 /* Shapes.swift */,
 				C088661D2C4CC52200CD4091 /* Colors.swift */,
+				C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */,
 				C088660F2C4CB83A00CD4091 /* Assets.xcassets */,
 				C08866112C4CB83A00CD4091 /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 				C088660E2C4CB83900CD4091 /* ContentView.swift in Sources */,
 				C088660C2C4CB83900CD4091 /* PracticeSwiftUiProjectApp.swift in Sources */,
 				C088661C2C4CBFAF00CD4091 /* Shapes.swift in Sources */,
+				C08866202C4D129A00CD4091 /* GradientsAndModifiers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -16,6 +16,7 @@
 		C088661E2C4CC52200CD4091 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088661D2C4CC52200CD4091 /* Colors.swift */; };
 		C08866202C4D129A00CD4091 /* GradientsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */; };
 		C08866222C4D195D00CD4091 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08866212C4D195D00CD4091 /* IconsBootcamp.swift */; };
+		C08866242C4D5A3900CD4091 /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08866232C4D5A3900CD4091 /* ImagesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		C088661D2C4CC52200CD4091 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsAndModifiers.swift; sourceTree = "<group>"; };
 		C08866212C4D195D00CD4091 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		C08866232C4D5A3900CD4091 /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				C088661D2C4CC52200CD4091 /* Colors.swift */,
 				C088661F2C4D129A00CD4091 /* GradientsAndModifiers.swift */,
 				C08866212C4D195D00CD4091 /* IconsBootcamp.swift */,
+				C08866232C4D5A3900CD4091 /* ImagesBootcamp.swift */,
 				C088660F2C4CB83A00CD4091 /* Assets.xcassets */,
 				C08866112C4CB83A00CD4091 /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				C088661A2C4CB86E00CD4091 /* TextComponent.swift in Sources */,
 				C088661E2C4CC52200CD4091 /* Colors.swift in Sources */,
+				C08866242C4D5A3900CD4091 /* ImagesBootcamp.swift in Sources */,
 				C088660E2C4CB83900CD4091 /* ContentView.swift in Sources */,
 				C088660C2C4CB83900CD4091 /* PracticeSwiftUiProjectApp.swift in Sources */,
 				C088661C2C4CBFAF00CD4091 /* Shapes.swift in Sources */,
